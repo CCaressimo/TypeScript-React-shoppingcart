@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Drums",
+    "price": 2999.99,
+    "imgUrl": "/imgs/drums.png"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1199.00,
+    "imgUrl": "/imgs/laptop.png"
+  },
+  {
+    "id": 3,
+    "name": "Evo",
+    "price": 25000.00,
+    "imgUrl": "/imgs/evo.png"
+  },
+  {
+    "id": 4,
+    "name": "Bao",
+    "price": 8.99,
+    "imgUrl": "/imgs/Bao.png"
+  }
+]
